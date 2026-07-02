@@ -57,10 +57,9 @@ streamlit run app.py
 | Transfer Learning| MobileNetV2      | **99.12%**    | ~0.07     |
 
 ## 📂 Project Structure  
-
-- 📁 **notebooks**  
-  - 📓 `teeth_classification_from_scratch.ipynb` – CNN from scratch  
-  - 📓 `teeth_classification_PretrainedModel.ipynb` – MobileNetV2 + fine-tuning  
+ 
+- 📓 `teeth_classification_from_scratch.ipynb` – CNN from scratch  
+- 📓 `teeth_classification_PretrainedModel.ipynb` – MobileNetV2 + fine-tuning  
 - 📄 `app.py` – Streamlit web app  
 - 📄 `README.md` – Documentation  
 
