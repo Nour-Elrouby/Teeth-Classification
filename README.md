@@ -62,7 +62,6 @@ streamlit run app.py
   - 📓 `teeth_classification_from_scratch.ipynb` – CNN from scratch  
   - 📓 `teeth_classification_PretrainedModel.ipynb` – MobileNetV2 + fine-tuning  
 - 📄 `app.py` – Streamlit web app  
-- 📄 `Task.pdf` – Project description  
 - 📄 `README.md` – Documentation  
 
 
